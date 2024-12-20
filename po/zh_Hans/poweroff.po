@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "PowerOff"
+msgstr "关机"
+
+msgid "Shut down your router"
+msgstr "关闭设备"
+
+msgid "Perform PowerOff"
+msgstr "执行关机"
+
+msgid "Warning: There are unsaved changes that will get lost on shutting down!"
+msgstr "警告：没保存的改动在关机的时将会丢失！"
+
+msgid "Waiting for device..."
+msgstr "等待设备重启中..."
+
+msgid "Router is shutting down..."
+msgstr "设备正在关机..."
